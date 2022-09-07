@@ -1,0 +1,45 @@
+.condidateNameDiv {
+    position: absolute;
+    right: 15vw;
+    top: 10vh;
+}
+
+.condidateName {
+    color: #ffbf40;
+    font-size: 3vw;
+}
+
+.slogansDiv {
+    position: absolute;
+    right: 10vw;
+    top: 30vh;
+}
+
+.slogan {
+    color: #edab26;
+    font-size: 2.5vw;
+}
+
+.partyDiv {
+    position: absolute;
+    right: 10vw;
+    bottom: 5vh;
+}
+
+.partyName {
+    color: #edab26;
+    font-size: 2.5vw;
+}
+
+.condidateImage {
+    width: 80vw;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.background {
+    width: 100vw;
+    height: 90vh;
+    margin-top: 10vh;
+}
